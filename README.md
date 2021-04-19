@@ -21,7 +21,8 @@ These instructions will get you a copy of the project up and running on your loc
 - [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
 - [Security](https://github.com/karan/Projects#security)
 - 
-### Prerequisites
+
+Prerequisites
 
 What things you need to install the software and how to install them
 
