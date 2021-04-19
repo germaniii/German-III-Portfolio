@@ -21,18 +21,30 @@ These instructions will get you a copy of the project up and running on your loc
 - [Java Coffee Inventory](https://github.com/germaniii/German-III-Portfolio#assembly)
 - [PIC16F877A Projects](https://github.com/germaniii/German-III-Portfolio#c)
 
-# Learning
+## Learning
 
-Assembly
----------
+**Assembly**
 
 What things you need to install the software and how to install them
 ### Console Coloring
 ### Number Detector
 ### 8086
 
-C
----------
+**C**
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+**Java**
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+**Verilog HDL**
 
 What things you need to install the software and how to install them
 
@@ -40,53 +52,28 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-Java
----------
-
+**HTML**
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-Verilog HDL
----------
-
+**CSS**
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-HTML
----------
-
+**PHP**
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-CSS
----------
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-PHP
----------
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-MYSQL
----------
+**MYSQL**
 
 What things you need to install the software and how to install them
 
