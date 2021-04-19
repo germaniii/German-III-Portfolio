@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginbackground"
+    tools:context=".admin.Admin_MainMenu">
+
+    <Button
+        android:id="@+id/admintoGenerate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="@string/generateButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/admintoTrend" />
+
+    <Button
+        android:id="@+id/admintoSettings"
+        android:layout_width="107dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginEnd="52dp"
+        android:text="@string/settingsButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/admintoGenerate" />
+
+    <Button
+        android:id="@+id/admintoTrend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:text="@string/trendsButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/admintoInventory" />
+
+    <Button
+        android:id="@+id/admintoInventory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:text="@string/inventoryButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginTitle4" />
+
+    <Button
+        android:id="@+id/admintoLogout"
+        android:layout_width="128dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="137dp"
+        android:layout_marginEnd="93dp"
+        android:text="@string/logoutButton"
+        app:layout_constraintEnd_toEndOf="@+id/admintoSettings"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/admintoGenerate" />
+
+    <TextView
+        android:id="@+id/loginTitle4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="148dp"
+        android:fontFamily="cursive"
+        android:text="@string/logInTitle"
+        android:textColor="#F8F8F8"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

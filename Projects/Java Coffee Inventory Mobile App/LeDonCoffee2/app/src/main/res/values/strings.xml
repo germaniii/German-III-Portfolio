@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LeDonCoffee</string>
+    <string name="logInTitle">Le Don Coffee Inventory</string>
+    <string name="logInButton">Log In</string>
+    <string name="passwordString">Password</string>
+
+    <string name="inventoryButton">Inventory</string>
+    <string name="trendsButton">Sales Trends</string>
+    <string name="generateButton">Generated Sales</string>
+    <string name="logoutButton">Log Out</string>
+    <string name="settingsButton">Settings</string>
+
+    <string name="adminButton">Admin</string>
+    <string name="cashierButton">Cashier</string>
+
+    <string name="addInventory">Add Item</string>
+    <string name="viewInventory">View Inventory</string>
+    <string name="addItemName">Item Name</string>
+    <string name="addItemPriceName">Price</string>
+    <string name="addItemQtyName">Quantity</string>
+
+    <string name="headerLabel">Product ID\t\t\t\t\tProduct Name\t\t\t\t\tUnit Price\t\t\t\t\tQty</string>
+
+
+
+
+    <string name="backButton">Back</string>
+
+
+
+
+
+</resources>

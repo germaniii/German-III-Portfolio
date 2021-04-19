@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ledoncoffee">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+        <activity android:name=".common.View_SalesTrend"></activity>
+        <activity android:name=".common.View_Inventory" />
+        <activity android:name=".admin.Admin_Inventory_AddItem" />
+        <activity android:name=".admin.Admin_InventoryPick" />
+        <activity android:name=".admin.Admin_MainMenu" />
+        <activity android:name=".cashier.MainMenu" />
+        <activity android:name=".admin.LoginAdmin" />
+        <activity android:name=".common.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".common.View_GeneratedSales" />
+    </application>
+
+</manifest>
