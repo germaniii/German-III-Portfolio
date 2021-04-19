@@ -1,4 +1,4 @@
-# German III Programming Portfolio
+# **German III Programming Portfolio**
 A portfolio of all University Projects, Independent and Collaborative Projects.
 
 ## Introduction
@@ -21,19 +21,23 @@ These instructions will get you a copy of the project up and running on your loc
 - [Java Coffee Inventory](https://github.com/germaniii/German-III-Portfolio#assembly)
 - [PIC16F877A Projects](https://github.com/germaniii/German-III-Portfolio#c)
 
-## **Learning**
+# **Learning**
 
 A compilation of learning exercises used to learn the different programming languages.
 
-####Assembly
+Assembly
 ---------
+Assembly taught during 3rd year of Computer Engineering.
+### [Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring)
+### [Number Detector](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Number%20Detector)
+### [8086](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086)
+* [Interrupt Interfacing](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Interrupt%20Interfacing) - description
+* [Interrupt Interfacing 2](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Interrupt%20Interfacing%202) - description
+* [Parallel I/O Interfacing](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Parallel%20IO%20Interfacing) - description
+* [LED Matrix Display](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/LED%20Matrix%20Display) - description
+* [Passcode Locker](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Parallel%20IO%20Interfacing) - description
 
-What things you need to install the software and how to install them
-### Console Coloring
-### Number Detector
-### 8086
-
-####C
+C
 ---------
 What things you need to install the software and how to install them
 
@@ -41,7 +45,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-####Java
+Java
 ---------
 
 What things you need to install the software and how to install them
