@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Java Coffee Inventory](https://github.com/germaniii/German-III-Portfolio#assembly)
 - [PIC16F877A Projects](https://github.com/germaniii/German-III-Portfolio#c)
 
-## Learning
+# Learning
 
 Assembly
 ---------
@@ -95,7 +95,7 @@ Give examples
 ```
 
 
-## Projects
+# Projects
 
 Java Coffee Inventory Mobile App
 ---------
