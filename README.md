@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Table of Contents
 
-### Learning
+### **Learning**
 - [Assembly](https://github.com/germaniii/German-III-Portfolio#assembly)
 - [C](https://github.com/germaniii/German-III-Portfolio#c)
 - [Java](https://github.com/germaniii/German-III-Portfolio#java)
@@ -17,63 +17,30 @@ These instructions will get you a copy of the project up and running on your loc
 - [PHP](https://github.com/germaniii/German-III-Portfolio#php)
 - [MYSQL](https://github.com/germaniii/German-III-Portfolio#mysql)
 
-### Projects
+### **Projects**
 - [Java Coffee Inventory](https://github.com/germaniii/German-III-Portfolio#assembly)
 - [PIC16F877A Projects](https://github.com/germaniii/German-III-Portfolio#c)
 
-## Learning
+# **Learning**
 
-**Assembly**
+Assembly
+---------
 
 What things you need to install the software and how to install them
 ### Console Coloring
 ### Number Detector
 ### 8086
 
-**C**
+C
+---------
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-**Java**
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-**Verilog HDL**
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-**HTML**
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-**CSS**
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-**PHP**
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-**MYSQL**
+Java
+---------
 
 What things you need to install the software and how to install them
 
@@ -81,8 +48,53 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
+Verilog HDL
+---------
 
-# Projects
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+HTML
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+CSS
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+PHP
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+MYSQL
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+
+# **Projects**
 
 Java Coffee Inventory Mobile App
 ---------
