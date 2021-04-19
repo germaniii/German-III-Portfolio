@@ -23,6 +23,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 # **Learning**
 
+A compilation of learning exercises used to learn the different programming languages.
+
 Assembly
 ---------
 
