@@ -7,22 +7,23 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Table of Contents
 
-- [Numbers](https://github.com/germaniii/German-III-Portfolio#prerequisites)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
-- 
+### Learning
+- [Assembly](https://github.com/germaniii/German-III-Portfolio#assembly)
+- [C](https://github.com/germaniii/German-III-Portfolio#c)
+- [Java](https://github.com/germaniii/German-III-Portfolio#java)
+- [Verilog HDL](https://github.com/germaniii/German-III-Portfolio#verilog-hdl)
+- [HTML](https://github.com/germaniii/German-III-Portfolio#html)
+- [CSS](https://github.com/germaniii/German-III-Portfolio#css)
+- [PHP](https://github.com/germaniii/German-III-Portfolio#php)
+- [MYSQL](https://github.com/germaniii/German-III-Portfolio#mysql)
 
-Prerequisites
+### Projects
+- [Java Coffee Inventory](https://github.com/germaniii/German-III-Portfolio#assembly)
+- [PIC16F877A Projects](https://github.com/germaniii/German-III-Portfolio#c)
+
+## Learning
+
+Assembly
 ---------
 
 What things you need to install the software and how to install them
@@ -30,6 +31,69 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+
+C
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+Java
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+Verilog HDL
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+HTML
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+CSS
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+PHP
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+MYSQL
+---------
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
 
 ### Installing
 
