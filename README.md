@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 A compilation of learning exercises used to learn the different programming languages.
 
-### Assembly
+### **Assembly**
 Assembly taught during 3rd year of Computer Engineering.
 
 - [Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring)
@@ -39,7 +39,7 @@ Assembly taught during 3rd year of Computer Engineering.
 
 ---
 
-### C
+### **C**
 What things you need to install the software and how to install them
 
 ```
@@ -47,7 +47,7 @@ Give examples
 ```
 ---
 
-### Java
+### **Java**
 What things you need to install the software and how to install them
 
 ```
@@ -55,7 +55,7 @@ Give examples
 ```
 ---
 
-### Verilog HDL
+### **Verilog HDL**
 Taught during 3rd year of Computer Engineering.
 
 - [Basic](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic)  
@@ -84,7 +84,7 @@ Taught during 3rd year of Computer Engineering.
 
 ---
 
-### HTML
+### **HTML**
 
 What things you need to install the software and how to install them
 
@@ -94,7 +94,7 @@ Give examples
 ---
 
 
-### CSS
+### **CSS**
 
 What things you need to install the software and how to install them
 
@@ -113,7 +113,7 @@ Give examples
 
 ---
 
-### MYSQL
+### **MYSQL**
 What things you need to install the software and how to install them
 
 ```
@@ -124,12 +124,12 @@ Give examples
 
 ## **Projects**
 
-### [Java Coffee Inventory Mobile App](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/Java%20Coffee%20Inventory%20Mobile%20App)
+### [**Java Coffee Inventory Mobile App**](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/Java%20Coffee%20Inventory%20Mobile%20App)
 A finals requirement for the Software Development Strategies Subject during my 2nd year in Computer Engineering. We had to create the app that the virtual customer required with their own specific requirements. 
 
 ---
 
-### [PIC 16F877A Projects](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A)
+### [**PIC 16F877A Projects**](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A)
 Requirements for of my Embedded Systems Subject during my 3rd year in Computer Engineering.
 - [People Counter](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A/People%20Counter)
 
