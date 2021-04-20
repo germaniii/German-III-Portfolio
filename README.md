@@ -28,7 +28,7 @@ A compilation of learning exercises used to learn the different programming lang
 Assembly
 ---------
 Assembly taught during 3rd year of Computer Engineering.
-```
+
 ### [Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring)
 ### [Number Detector](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Number%20Detector)
 ### [8086](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086)
@@ -37,7 +37,7 @@ Assembly taught during 3rd year of Computer Engineering.
 * [Parallel I/O Interfacing](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Parallel%20IO%20Interfacing) - description
 * [LED Matrix Display](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/LED%20Matrix%20Display) - description
 * [Passcode Locker](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Parallel%20IO%20Interfacing) - description
-```
+
 C
 ---------
 What things you need to install the software and how to install them
