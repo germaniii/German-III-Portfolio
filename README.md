@@ -29,8 +29,8 @@ Assembly
 ---
 Assembly taught during 3rd year of Computer Engineering.
 
-[Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring)
-[Number Detector](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Number%20Detector)
+[Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring) • 
+[Number Detector](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Number%20Detector) • 
 [8086](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086)
 * [Interrupt Interfacing](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Interrupt%20Interfacing) - description
 * [Interrupt Interfacing 2](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Interrupt%20Interfacing%202) - description
