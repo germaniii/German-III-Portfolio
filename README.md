@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Java Coffee Inventory](https://github.com/germaniii/German-III-Portfolio#assembly)
 - [PIC16F877A Projects](https://github.com/germaniii/German-III-Portfolio#c)
 
-# **Learning**
+## **Learning**
 
 A compilation of learning exercises used to learn the different programming languages.
 
@@ -122,7 +122,7 @@ Give examples
 
 ---
 
-# **Projects**
+## **Projects**
 
 ### [Java Coffee Inventory Mobile App](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/Java%20Coffee%20Inventory%20Mobile%20App)
 A finals requirement for the Software Development Strategies Subject during my 2nd year in Computer Engineering. We had to create the app that the virtual customer required with their own specific requirements. 
