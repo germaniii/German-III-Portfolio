@@ -124,12 +124,12 @@ Give examples
 
 # **Projects**
 
-[Java Coffee Inventory Mobile App](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/Java%20Coffee%20Inventory%20Mobile%20App)
----------
+### [Java Coffee Inventory Mobile App](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/Java%20Coffee%20Inventory%20Mobile%20App)
 A finals requirement for the Software Development Strategies Subject during my 2nd year in Computer Engineering. We had to create the app that the virtual customer required with their own specific requirements. 
 
-[PIC 16F877A Projects](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A)
----------
+---
+
+### [PIC 16F877A Projects](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A)
 Requirements for of my Embedded Systems Subject during my 3rd year in Computer Engineering.
 - [People Counter](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A/People%20Counter)
 
