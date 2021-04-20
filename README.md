@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 A compilation of learning exercises used to learn the different programming languages.
 
 ### **Assembly**
-Assembly taught during 3rd year of Computer Engineering.
+Assembly taught during 3rd year of Computer Engineering. Assembly was compiled using [emu8086](https://emu8086-microprocessor-emulator.en.softonic.com/) and [Proteus](https://www.labcenter.com/) softwares.
 
 - [Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring)
 - [Number Detector](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Number%20Detector)
@@ -56,7 +56,7 @@ Give examples
 ---
 
 ### **Verilog HDL**
-Taught during 3rd year of Computer Engineering.
+Taught during 3rd year of Computer Engineering. Used Intel Quartus to simulate testbenches and circuits. 
 
 - [Basic](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic)  
   - [Half Adder](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/Half%20Adder)
