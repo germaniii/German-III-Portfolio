@@ -126,10 +126,6 @@ Give examples
 ---------
 A finals requirement for the Software Development Strategies Subject during my 2nd year in Computer Engineering. We had to create the app that the virtual customer required with their own specific requirements. 
 
-```
-Give examples
-```
-
 [PIC 16F877A Projects](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A)
 ---------
 Requirements for of my Embedded Systems Subject during my 3rd year in Computer Engineering.
