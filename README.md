@@ -37,12 +37,15 @@ Assembly taught during 3rd year of Computer Engineering.
   - [LED Matrix Display](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/LED%20Matrix%20Display) - description
   - [Passcode Locker](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Parallel%20IO%20Interfacing) - description
 
+---
+
 ### C
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
+---
 
 ### Java
 What things you need to install the software and how to install them
@@ -50,6 +53,7 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+---
 
 ### Verilog HDL
 Taught during 3rd year of Computer Engineering.
@@ -78,8 +82,19 @@ Taught during 3rd year of Computer Engineering.
   - [Hexadecimal to 7-Segment](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Modularized%20Designs/Hex%20to%207-Segment)
   - [Stopwatch](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Modularized%20Designs/Stopwatch)
 
-HTML
----------
+---
+
+### HTML
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+---
+
+
+### CSS
 
 What things you need to install the software and how to install them
 
@@ -87,33 +102,25 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-CSS
----------
+---
 
+### PHP
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-PHP
----------
+---
 
+### MYSQL
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-MYSQL
----------
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
+---
 
 # **Projects**
 
