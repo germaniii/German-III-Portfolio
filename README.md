@@ -56,7 +56,7 @@ Give examples
 ---
 
 ### **Verilog HDL**
-Taught during 3rd year of Computer Engineering. Used Intel Quartus to simulate testbenches and circuits. 
+Taught during 3rd year of Computer Engineering. Used [Intel Quartus Prime](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html) to simulate testbenches and circuits. 
 
 - [Basic](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic)  
   - [Half Adder](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/Half%20Adder)
