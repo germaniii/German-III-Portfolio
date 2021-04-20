@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Table of Contents
 
 ### **Learning**
-- [Assembly](https://github.com/germaniii/German-III-Portfolio#assembly)
+- [Assembly](https://github.com/germaniii/German-III-Portfolio##assembly)
 - [C](https://github.com/germaniii/German-III-Portfolio#c)
 - [Java](https://github.com/germaniii/German-III-Portfolio#java)
 - [Verilog HDL](https://github.com/germaniii/German-III-Portfolio#verilog-hdl)
@@ -25,8 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 A compilation of learning exercises used to learn the different programming languages.
 
-Assembly
----------
+## Assembly
 Assembly taught during 3rd year of Computer Engineering.
 
 ### [Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring)
