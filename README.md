@@ -25,8 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 A compilation of learning exercises used to learn the different programming languages.
 
-Assembly
----
+### Assembly
 Assembly taught during 3rd year of Computer Engineering.
 
 - [Console Coloring](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/Console%20Coloring)
@@ -38,25 +37,21 @@ Assembly taught during 3rd year of Computer Engineering.
   - [LED Matrix Display](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/LED%20Matrix%20Display) - description
   - [Passcode Locker](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Assembly/8086/Parallel%20IO%20Interfacing) - description
 
-C
----------
+### C
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-Java
----------
-
+### Java
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-Verilog HDL
----------
+### Verilog HDL
 Taught during 3rd year of Computer Engineering.
 
 - [Basic](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic)  
