@@ -122,23 +122,18 @@ Give examples
 
 # **Projects**
 
-Java Coffee Inventory Mobile App
+[Java Coffee Inventory Mobile App](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/Java%20Coffee%20Inventory%20Mobile%20App)
 ---------
-
-What things you need to install the software and how to install them
+A finals requirement for the Software Development Strategies Subject during my 2nd year in Computer Engineering. We had to create the app that the virtual customer required with their own specific requirements. 
 
 ```
 Give examples
 ```
 
-PIC 16F877A Projects
+[PIC 16F877A Projects](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A)
 ---------
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Requirements for of my Embedded Systems Subject during my 3rd year in Computer Engineering.
+- [People Counter](https://github.com/germaniii/German-III-Portfolio/tree/codes/Projects/PIC16F877A/People%20Counter)
 
 ## Authors
 
