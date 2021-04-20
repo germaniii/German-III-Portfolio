@@ -57,12 +57,31 @@ Give examples
 
 Verilog HDL
 ---------
+Taught during 3rd year of Computer Engineering.
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+- [Basic](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic)  
+  - [Half Adder](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/Half%20Adder)
+  - [Full Adder](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/Full%20Adder)
+  - [Decoder](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/Decoders)  
+  - [4-bit Adder](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/4-Bit%20Adder)
+  - [4-bit Comparator](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/4-Bit%20Comparator)
+  - [Comparator](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Basic/Comparator)
+- [Finite State Machines](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Finite%20State%20Machines)
+  - [Complex Counter](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Finite%20State%20Machines/Complex%20Counter)
+  - [Race Lights Controller](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Finite%20State%20Machines/Race%20Lights%20Controller)
+  - [Washing Machine Controller](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Finite%20State%20Machines/Washing%20Machine%20Controller)
+- [Flip-Flops](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Flip-Flops)
+  - [JK Flip-Flop](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Flip-Flops/JK%20Flip-Flop)
+  - [T Flip-Flop](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Flip-Flops/T%20Flip-Flop)
+- [Microprocessors](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Microprocessor)
+  - [ALU](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Microprocessor/ALU)
+  - [Multiplexer](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Microprocessor/Multiplexer)
+  - [Parity Bit Generator](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Microprocessor/Parity%20Bit%20Generator)
+  - [n-Bit Register](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Microprocessor/n-Bit%20Register)
+- [Modularized Designs](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Modularized%20Designs)
+  - [Disk Spinner](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Modularized%20Designs/Disk%20Spinner)
+  - [Hexadecimal to 7-Segment](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Modularized%20Designs/Hex%20to%207-Segment)
+  - [Stopwatch](https://github.com/germaniii/German-III-Portfolio/tree/codes/Learning/Verilog%20HDL/Modularized%20Designs/Stopwatch)
 
 HTML
 ---------
